@@ -8,7 +8,7 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.pack.cs" },
+  { import = "astrocommunity.pack.cs-omnisharp" },
   { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   -- import/override with your plugins folder
 }

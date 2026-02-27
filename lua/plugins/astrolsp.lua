@@ -50,6 +50,9 @@ return {
           },
         },
       },
+      omnisharp = {
+        cmd = { "omnisharp" }, -- for some reason will not work w/o this default
+      },
     },
     -- customize how language servers are attached
     handlers = {
