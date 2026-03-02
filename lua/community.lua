@@ -9,6 +9,9 @@ return {
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.cs-omnisharp" },
+  { import = "astrocommunity.pack.python.base" },
+  { import = "astrocommunity.pack.python.basedpyright" },
+  { import = "astrocommunity.pack.python.ruff" },
   { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   -- import/override with your plugins folder
 }
