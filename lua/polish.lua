@@ -3,3 +3,4 @@
 -- fit in the normal config locations above can go here
 
 vim.o.guifont = "FiraCode Nerd Font Mono:h12"
+vim.lsp.inlay_hint.enable(true)
